@@ -63,12 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developershuvajit&layout=compact&theme=tokyonight" />
 </p>
 
----
-
  
-
----
-
  
 
 ## 📫 Connect With Me
@@ -78,16 +73,7 @@
 - Portfolio: *(https://elexatechnologies.in/)*
 - Email: *(shuvajitkarmakar82@gmail.com)*
 
----
-
-## 📌 Current Focus
-
-- ✅ Mastering **MERN Stack** with TypeScript
-- ✅ Building **RESTful APIs** & **GraphQL**
-- ✅ Learning **Docker** & **AWS**
-- ✅ Contributing to **Open Source**
-
----
+ 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
