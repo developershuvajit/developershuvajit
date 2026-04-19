@@ -13,11 +13,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **School Management System**
-- 🌱 Exploring **Advanced Node.js & System Design**
+ 
 - 💡 Interested in **SaaS, E-commerce & API Development**
 - 🎯 Goal: **Full Stack Architect**
-- ⚡ Fun fact: I love solving real-world problems with clean code
+ 
 
 ---
 
