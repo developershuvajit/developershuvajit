@@ -1,24 +1,42 @@
 <h1 align="center">Hi 👋, I'm Shuvajit</h1>
-<h3 align="center">💻 Core PHP Developer | Building Real World Projects 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Laravel | Shopify | WordPress</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developershuvajit&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Core+PHP+Developer;MERN+Stack+Developer;Laravel+Enthusiast;Shopify+%26+WordPress+Expert;Building+Real+World+Projects" />
+</p>
+
 ---
 
 ## 🚀 About Me
+
 - 🔭 Currently working on **School Management System**
-- 🌱 Learning **Laravel & Node.js**
-- 💡 Interested in **Web Development & SaaS**
-- 🎯 Goal: Become a **Full Stack Developer**
+- 🌱 Exploring **Advanced Node.js & System Design**
+- 💡 Interested in **SaaS, E-commerce & API Development**
+- 🎯 Goal: **Full Stack Architect**
+- ⚡ Fun fact: I love solving real-world problems with clean code
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,laravel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,mongodb,mysql,postgres,html,css,bootstrap,tailwind" />
+</p>
+
+### 🛢️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,postman,wordpress" />
+</p>
+
+### 🛒 E-commerce & CMS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://img.icons8.com/color/48/000000/shopify.png" alt="Shopify" width="48" height="48" />
 </p>
 
 ---
@@ -47,15 +65,47 @@
 
 ---
 
-## 🏆 Projects
-- 🎓 School Management System (Core PHP)
-- 🌐 Portfolio Website
-- ⚡ Learning Node.js Apps
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/developershuvajit/developershuvajit/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 🎓 School Management System | Core PHP, MySQL | Complete school admin & student management |
+| 🌐 Portfolio Website | React, Node.js, MongoDB | Personal portfolio with CMS |
+| 🛍️ Shopify Custom App | Shopify API, Node.js | Custom e-commerce solution |
+| 📝 Blog Platform | Laravel, PostgreSQL | Multi-author blogging platform |
+| 🔗 URL Shortener | Express, MongoDB, Redis | Scalable link management API |
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/developershuvajit
+
+- GitHub: [github.com/developershuvajit](https://github.com/developershuvajit)
+- LinkedIn: *(Add your link)*
+- Portfolio: *(Add your portfolio link)*
+- Email: *(Add your email)*
+
+---
+
+## 📌 Current Focus
+
+- ✅ Mastering **MERN Stack** with TypeScript
+- ✅ Building **RESTful APIs** & **GraphQL**
+- ✅ Learning **Docker** & **AWS**
+- ✅ Contributing to **Open Source**
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
