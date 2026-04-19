@@ -65,32 +65,18 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/developershuvajit/developershuvajit/output/github-snake.svg" alt="Snake animation" />
-</p>
+ 
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🎓 School Management System | Core PHP, MySQL | Complete school admin & student management |
-| 🌐 Portfolio Website | React, Node.js, MongoDB | Personal portfolio with CMS |
-| 🛍️ Shopify Custom App | Shopify API, Node.js | Custom e-commerce solution |
-| 📝 Blog Platform | Laravel, PostgreSQL | Multi-author blogging platform |
-| 🔗 URL Shortener | Express, MongoDB, Redis | Scalable link management API |
-
----
+ 
 
 ## 📫 Connect With Me
 
 - GitHub: [github.com/developershuvajit](https://github.com/developershuvajit)
-- LinkedIn: *(Add your link)*
-- Portfolio: *(Add your portfolio link)*
-- Email: *(Add your email)*
+- LinkedIn: *(https://www.linkedin.com/in/shuvajit-karmakar-331160404/)*
+- Portfolio: *(https://elexatechnologies.in/)*
+- Email: *(shuvajitkarmakar82@gmail.com)*
 
 ---
 
