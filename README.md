@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Core+PHP+Developer;MERN+Stack+Developer;Laravel+Enthusiast;Shopify+%26+WordPress+Expert;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Enthusiast;Shopify+%26+WordPress+Expert;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -21,11 +21,12 @@
 
 ---
 
+ 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,mongodb,mysql,postgres,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,laravel,js,react,nodejs,express,mongodb,mysql,postgres,html,css,bootstrap,tailwind" />
 </p>
 
 ### 🛢️ Databases & Tools
